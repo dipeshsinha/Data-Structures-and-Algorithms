@@ -1,0 +1,6 @@
+gcd(a, b) {
+if b = 0:
+    return 0
+a' <- the remainder when a is divided by by
+return gcd(b, a')
+}
