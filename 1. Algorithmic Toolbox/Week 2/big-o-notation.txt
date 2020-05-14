@@ -1,0 +1,4 @@
+Asymptotic Notation:
+
+logn < root n < n < nlogn < n^2 < 2^n
+
