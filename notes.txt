@@ -1,3 +1,5 @@
 gcc -o out.exe file.c
 
 g++ -o out.exe file.cpp
+
+todo : week 3 -> knapsack
